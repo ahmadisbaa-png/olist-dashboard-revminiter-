@@ -2,7 +2,7 @@
 
 ## Setup Environment - Anaconda
 ```
-cd /d D:\UpSkill\IDCAMP\submission\dashboard
+cd /d D:\UpSkill\IDCAMP\Revsubmission\dashboard
 conda activate main-ds
 pip install -r requirements.txt
 ```
